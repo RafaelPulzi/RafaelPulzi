@@ -1,7 +1,7 @@
 ## Hello, you're welcome my friend, I'm a young CC student from Brazil 🇧🇷. ;)
 
 ### 🤖 Current Project: ***Ternary Chart***
-### 🌱 I'm Studying: **Java**
+### 🌱 I'm current Studying: **Java**
 ### __________________________________________________________________________________________________________
 ### STATS:
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=radical)
