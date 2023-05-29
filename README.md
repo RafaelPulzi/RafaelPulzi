@@ -6,7 +6,7 @@
 ### STATS:
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=compact&theme=transparent"/>
 <span/>
  __________________________________________________________________________________________________________
 
