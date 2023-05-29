@@ -5,8 +5,8 @@
 ### __________________________________________________________________________________________________________
 ### STATS:
 <span>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=compact&theme=transparent"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=compact&theme=transparent"/>
 <span/>
  __________________________________________________________________________________________________________
 
