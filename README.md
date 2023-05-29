@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"/>
 <span/>
-### __________________________________________________________________________________________________________
+ __________________________________________________________________________________________________________
 
 ### Technologies that i use in a daily basis:
 <div style="display: inline_block"><br/>
