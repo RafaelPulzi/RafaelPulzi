@@ -4,8 +4,8 @@
 ### 🌱 Current Study: **Java**
 ### __________________________________________________________________________________________________________
 ### STATS:
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### __________________________________________________________________________________________________________
 
 ### Technologies that i use in a daily basis:
