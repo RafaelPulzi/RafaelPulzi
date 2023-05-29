@@ -8,7 +8,9 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=compact&theme=transparent"/>
 <span/>
 <br/>
-### Technologies that i use in a daily basis:
+  
+<h3>Technologies that i use in a daily basis:<h3/>
+  
 <div style="display: inline_block"><br/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -18,7 +20,7 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-### Technologies i'll study soon:
+<h3>Technologies i'll study soon:<h3/>
 <div style="display: inline_block"><br/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
