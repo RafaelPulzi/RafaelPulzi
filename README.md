@@ -7,6 +7,8 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&show_icons=true&layout=donut&theme=transparent&langs_count=100&exclude_repo=Determinante-Credito-Carbono-Simplificado,Determinante-Credito-Carbono"/>
 <span/>
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafaelPulzi)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
   
 <h3>Technologies that i use in a daily basis:<h3/>
