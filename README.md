@@ -4,8 +4,8 @@
 ### 🌱 Current Study: **Java**
 <br/>
 <span>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&show_icons=true&layout=donut&theme=transparent&langs_count=100&exclude_repo=Determinante-Credito-Carbono-Simplificado,Determinante-Credito-Carbono"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&show_icons=true&layout=donut&theme=transparent&langs_count=100&exclude_repo=Determinante-Credito-Carbono-Simplificado,Determinante-Credito-Carbono"/>
 <span/>
 <br/>
   
