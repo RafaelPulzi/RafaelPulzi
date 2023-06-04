@@ -1,4 +1,4 @@
-## Hello fellow developer, you're welcome i should say, I'm a young CC student from Brazil 🇧🇷. ;)
+## Hello fellow developer, you're welcome i should say, I'm a young computer scientist student from Brazil. ;)
 
 ### 🤖 Current Project: **Ternary Chart**
 ### 🌱 Current Study: **Java**
