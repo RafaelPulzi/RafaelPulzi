@@ -5,9 +5,12 @@
 <br/>
 <span>
   <img height="300px" width=300px src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
+  <br/>
+  <img height="300px" width=300px src="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelPulzi&theme=transparent"/>
+  <br/>
   <img height="300px" width=100px src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&show_icons=true&layout=donut&theme=transparent&langs_count=100&exclude_repo=Determinante-Credito-Carbono-Simplificado,Determinante-Credito-Carbono"/>
 <span/>
- <img height="300px" width=300px src="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelPulzi&theme=transparent"/>
+ 
 <br/>
   
 <h3>Technologies that i use in a daily basis:<h3/>
