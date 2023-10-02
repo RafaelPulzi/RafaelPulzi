@@ -4,11 +4,11 @@
 ### 🌱 Current Study: **Java**
 <br/>
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
+  <img width=400px src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelPulzi&theme=transparent"/>
+  <img width=400px src="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelPulzi&theme=transparent"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&show_icons=true&layout=donut&theme=transparent&langs_count=100&exclude_repo=Determinante-Credito-Carbono-Simplificado,Determinante-Credito-Carbono"/>
+  <img width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&show_icons=true&layout=donut&theme=transparent&langs_count=100&exclude_repo=Determinante-Credito-Carbono-Simplificado,Determinante-Credito-Carbono"/>
 <span/>
  
 <br/>
