@@ -1,7 +1,7 @@
 ## Hello fellow developer, you're welcome i should say, I'm a young computer scientist student from Brazil. ;)
 
 ### 🤖 Current Project: **Sistema Solar usando JS puro**
-### 🌱 Current Study: **Java / Python**
+### 🌱 Current Study: **JavaScript / Python**
 <br/>
 <span>
   <img width=400px position=center src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=transparent"/>
