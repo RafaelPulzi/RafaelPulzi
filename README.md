@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0845,100:6441a5&height=180&section=header&text=Rafael%20Pulzi&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0845,100:6441a5&height=180&section=header&text=Rafael%20Atala%20Pulzi&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
 <div align="center">
 
