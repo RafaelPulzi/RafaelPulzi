@@ -35,17 +35,17 @@ it is a **grimório**, a record of studies, experiments, and summoned creations.
 
 <div align="center">
 
-<img width="100%" 
+<img width="60%" 
 src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb9af7&icon_color=7aa2f7&text_color=c9d1d9&border_radius=15"/>
 
 <br/><br/>
 
-<img width="100%" 
+<img width="60%" 
 src="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelPulzi&theme=tokyonight&bg_color=0d1117&title_color=7dcfff&text_color=c9d1d9&border_radius=15"/>
 
 <br/><br/>
 
-<img width="100%" 
+<img width="60%" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=donut&langs_count=10&theme=tokyonight&bg_color=0d1117&title_color=9f7aea&text_color=c9d1d9&border_radius=15&exclude_repo=Determinante-Credito-Carbono-Simplificado,Determinante-Credito-Carbono"/>
 
 </div>
