@@ -25,11 +25,13 @@ it is a **grimório**, a record of studies, experiments, and summoned creations.
 
 ## 🔮 Current Incantations
 
-- **🪐 Project:** Solar System Simulation using **Vanilla JavaScript**
-- **🌱 Studies:** JavaScript & Python
-- **📚 Path:** Algorithms, Systems, Visualization & Automation
+* 🖨️ **Project:** Daily checklist automation using a thermal receipt printer (ESC/POS)
+* 🧠 **Focus:** Personal productivity with Obsidian and Google Calendar integration
+* ⚙️ **Stack:** Python, APIs, local automation, and personal workflow tools
+* 📚 **Path:** Automation, personal systems, offline-first tools, and productivity
 
 ---
+
 
 ## 🌌 Astral Readings
 
