@@ -21,36 +21,32 @@ Through symbols, logic, automation, and experimentation, I transmute ideas into 
 This repository is not merely a profile —  
 it is a **grimório**, a living archive of studies, prototypes, academic research, open-source contributions, and summoned creations.
 
-From thermal printers to intelligent waste collection systems, from PKM workflows in Obsidian to emergy-based sustainability software —  
-my craft lives where software solves real-world complexity.
-
 ---
 
 ## 🔮 Current Incantations
 
-* ♻️ **Academic Research:** Developing intelligent urban cleaning prioritization systems using computer vision, routing optimization, and smart sensors
-* 🧠 **AI Focus:** Deep learning with YOLO for waste detection and environmental automation
-* 🗺️ **Mapping & Logistics:** Route optimization using Leaflet.js for smart waste collection
-* 📊 **Sustainability Software:** Building emergy calculation systems inspired by SCALE for environmental data processing
-* 🖨️ **Automation Lab:** Thermal receipt printer projects using ESC/POS for routines, humor bots, and productivity workflows
-* 📓 **PKM Engineering:** Obsidian plugins for vault maintenance, knowledge audits, and personal knowledge quality
-* ⚙️ **Workflow Systems:** Google Calendar, Obsidian, local Python automations, and offline-first productivity
-* 🌐 **Open Source Journey:** Contributing to GitHub issues, documentation cleanup, feature suggestions, and code quality improvements
-* 🎮 **Side Projects:** Clicker Heroes calculators, save analyzers, and progression dashboards
+* ♻️ Academic research in intelligent urban cleaning systems  
+* 🧠 Deep learning with YOLO for waste detection  
+* 🗺️ Route optimization with Leaflet.js  
+* 📊 Sustainability software inspired by SCALE  
+* 🖨️ Thermal printer automation projects  
+* 📓 Obsidian plugins for PKM and vault maintenance  
+* ⚙️ Productivity workflows with local automation  
+* 🌐 Open source GitHub contributions  
+* 🎮 Progression dashboards and calculators  
 
 ---
 
 ## 🧪 Recent Experiments Summoned
 
-- 🧹 Smart urban cleaning TCC with AI-assisted prioritization  
+- 🧹 Smart urban cleaning TCC with AI prioritization  
 - 📚 UNIP academic material organization systems  
 - 🖼️ Funny thermal printer image generator  
-- 🗓️ Daily schedule printer integrated with calendars/weather  
+- 🗓️ Daily schedule printer integrations  
 - 🔍 Obsidian vault auditing plugin ideas  
 - 📈 Clicker Heroes progression analytics  
-- 🧾 Receipt-based task automation  
-- 🌱 Sustainability and emergy engineering tools  
-- 🛠️ GitHub open-source issue solving & PR contributions  
+- 🌱 Sustainability engineering tools  
+- 🛠️ GitHub issue solving & PR contributions  
 
 ---
 
@@ -58,20 +54,34 @@ my craft lives where software solves real-world complexity.
 
 <div align="center">
 
-<img width="60%" 
-src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb9af7&icon_color=7aa2f7&text_color=c9d1d9&border_radius=15"/>
+<!-- Stable contribution streak graph -->
+<img width="95%" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelPulzi&theme=tokyo-night&bg_color=0d1117&color=bb9af7&line=7aa2f7&point=c0caf5&area=true&hide_border=true"/>
 
 <br/><br/>
 
+<!-- More stable GitHub stats -->
 <img width="60%" 
-src="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelPulzi&theme=tokyonight&bg_color=0d1117&title_color=7dcfff&text_color=c9d1d9&border_radius=15"/>
+src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb9af7&icon_color=7aa2f7&text_color=c9d1d9&border_radius=15&cache_seconds=1800"/>
 
 <br/><br/>
 
-<img width="60%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&layout=donut&langs_count=10&theme=tokyonight&bg_color=0d1117&title_color=9f7aea&text_color=c9d1d9&border_radius=15&exclude_repo=Determinante-Credito-Carbono-Simplificado,Determinante-Credito-Carbono"/>
+<!-- Replace wakatime with trophies for stability -->
+<img width="80%"
+src="https://github-profile-trophy.vercel.app/?username=RafaelPulzi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20Open%20Source-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Brazil-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Student-Computer%20Science-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Research-Sustainability%20Engineering-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-orange?style=for-the-badge" />
+
+</div>
+
 
 ---
 
@@ -85,9 +95,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -107,7 +115,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 
 </div>
 
@@ -118,10 +125,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPulzi&
 ## 🕯️ Open Source Summoning Circle
 
 * ✨ Improving documentation in community repositories  
-* 🛠️ Suggesting clean architecture solutions for GitHub issues  
+* 🛠️ Suggesting clean architecture solutions  
 * 📦 Exploring beginner-friendly OSS contributions  
-* 🧹 Refactoring legacy code while preserving project style  
-* 📜 Writing technical PR comments and issue discussions  
+* 🧹 Refactoring legacy code  
+* 📜 Writing technical PR comments  
 
 ---
 
@@ -146,7 +153,7 @@ Contribute back.
 
 <div align="center">
 
-🔮 *“Any sufficiently advanced code is indistinguishable from magic.”* 🔮  
+🔮 *“Any sufficiently advanced code is indistinguishable from magic.”* 🔮
 
 </div>
 
