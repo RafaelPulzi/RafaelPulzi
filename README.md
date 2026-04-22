@@ -115,10 +115,10 @@ src="https://github-profile-trophy.vercel.app/?username=RafaelPulzi&theme=tokyon
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 </div>
 
-<p align="center"><i>And yes… even the ancient tongue of COBOL.</i></p>
 
 ---
 
