@@ -56,20 +56,21 @@ it is a **grimório**, a living archive of studies, prototypes, academic researc
 
 <!-- Stable contribution streak graph -->
 <img width="95%" 
-src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelPulzi&theme=tokyo-night&bg_color=0d1117&color=bb9af7&line=7aa2f7&point=c0caf5&area=true&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelPulzi&theme=tokyo-night&bg_color=0d1117&color=bb9af7&line=7aa2f7&point=c0caf5&border_radius=15&&area=true"/>
 
-<br/><br/>
+<br/>
 
 <!-- More stable GitHub stats -->
 <img width="60%" 
 src="https://github-readme-stats.vercel.app/api?username=RafaelPulzi&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb9af7&icon_color=7aa2f7&text_color=c9d1d9&border_radius=15&cache_seconds=1800"/>
 
+<br/>
+
+<!-- WakaTime coding activity -->
+<img width="48%" 
+src="https://github-readme-stats.vercel.app/api/wakatime?username=RafaelPulzi&theme=tokyonight&bg_color=0d1117&title_color=bb9af7&text_color=c9d1d9&icon_color=7aa2f7&border_radius=15&layout=compact&langs_count=10"/>
+
 <br/><br/>
-
-<!-- Replace wakatime with trophies for stability -->
-<img width="80%"
-src="https://github-profile-trophy.vercel.app/?username=RafaelPulzi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
 </div>
 
 <div align="center">
